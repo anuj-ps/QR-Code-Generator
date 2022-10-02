@@ -1,13 +1,25 @@
 :root {
   --baseColor: #606468;
 }
+/*
+changing styles
+plesase check before 
+accepting the
+pull request
 
+*/
+/*
+jibber jabber
+*/
 .grid {
   inline-size: 90%;
   margin-inline: auto;
   max-inline-size: 20rem;
   display:grid;
 }
+/*
+jibber jabber
+*/
 
 
 .hidden {
@@ -22,7 +34,7 @@
 }
 
 .icon {
-  block-size: 1em;
+  block-size: 1.1em;
   display: inline-block;
   fill: var(--iconFill);
   inline-size: 1em;
@@ -62,7 +74,9 @@ body {
    display: grid;
   place-items: center;
 }
-
+/*
+jibber jabber
+*/
 
 
 :root {
@@ -95,7 +109,9 @@ input {
   padding: 0;
   transition: background-color 0.3s;
 }
-
+/*
+jibber jabber
+*/
 textarea {
   background-image: none;
   border: 0;
@@ -112,7 +128,7 @@ select,option {
   border: 0;
   color: inherit;
   font: inherit;
-  margin: 0;
+  margin: 1;
   outline: 0;
   padding: 0;
   transition: background-color 0.3s;
@@ -121,7 +137,9 @@ select,option {
 input[type="submit"] {
   cursor: pointer;
 }
-
+/*
+jibber jabber
+*/
 
 textarea,
 select,
@@ -188,13 +206,17 @@ input[type="submit"]:hover {
   background-color: #d75821;
 }
 
-
+/*
+jibber jabber
+*/
 p {
   margin-block: 1.5rem;
   text-align: center;
 }
 
-
+/*
+jibber jabber
+*/
 img
 {
 max-width: 100%;
